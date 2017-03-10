@@ -1,0 +1,18 @@
+{
+  "name": "root-domain",
+  "version": "0.0.1",
+  "description": "Get root domain for any domain name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sandyman/2ldcheck.git"
+  },
+  "author": "Sander Huijsen <sander.huijsen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "2ldcheck": "0.0.2"
+  }
+}
