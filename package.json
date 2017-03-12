@@ -1,6 +1,6 @@
 {
   "name": "rootdomain",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get root domain for any domain name.",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "Sander Huijsen <sander.huijsen@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "2ldcheck": "0.0.2"
+    "2ldcheck": "0.0.3"
   }
 }
