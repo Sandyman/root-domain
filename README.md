@@ -1,5 +1,7 @@
 # root-domain
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Sandyman/root-domain.svg)](https://greenkeeper.io/)
+
 This module determines the root domain for any domain or sub domain. It takes into account that certain 'second level
 domains' exist, like '.co.uk' or 'com.au'. 
 
